@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AppFormulariosKotlin</string>
+    <string name="valtitulo">PROMEDIO SIMPLE</string>
+    <string name="valetnota1">Ingrese nota 1</string>
+    <string name="valetnota2">Ingrese nota 2</string>
+    <string name="valetnota3">Ingrese nota 3</string>
+    <string name="valbtncalcular">CALCULAR</string>
+    <string name="valtituloreg">REGISTRAR USUARIO</string>
+    <string name="valetnombre">Ingrese su nombre</string>
+    <string name="valetapellido">Ingrese su apellido</string>
+    <string name="valtvgenero">Seleccione su género</string>
+    <string name="valrbtnmasculino">Masculino</string>
+    <string name="valrbtnfemenino">Femenino</string>
+    <string name="valtvpreferencias">Seleccione sus preferencias</string>
+    <string name="valchkdeporte">Deportes</string>
+    <string name="valchkarte">Arte y dibujo</string>
+    <string name="valchkotros">Otra preferencia</string>
+    <string name="valswvip">¿Es usuario VIP?</string>
+    <string name="valbtnregistrar">REGISTRAR USUARIO</string>
+    <string name="valbtnirregistro">IR AL REGISTRO DE USUARIO</string>
+</resources>
